@@ -1,0 +1,48 @@
+<html>
+<title></title>
+
+<body style="text-align:center;font-family:sans-serif;background-color:lightgrey">
+    <header>
+        <header style="text-align:center">
+        <!-- Шапка: назва сайту, логотип, посилання -->
+        <h1 style="font-size:50px; background-color:lightblue;color:blue">KFC</h1>
+        <h2 style="font-size:40px;background-color:lightgreen;color:green">Меню</h2>
+    </header>
+    <main>
+        <!-- Основна інформація сайту -->
+     <table style="border:1px solid firebrick;color:red">
+        <tr style="border:1px solid firebrick;font-size:20px">
+            <td>Назва</td>
+            <td>Склад та страви схожого типу</td>
+            <td>Ціна</td>
+        </tr>
+        <tr style="border:1px solid firebrick;font-size:20px">
+            <td>Закуска</td>
+            <td>Курячі стріпси, нагетси, картопля фрі. Склад: Курка та картопля.</td>
+            <td>Від 70 до 200 грн</td>
+        </tr>
+        <tr style="border:1px solid firebrick;font-size:20px">
+            <td>Бургери</td>
+            <td>Шеф-бургер,Сандерс бургер, чізбургер,Італійський Бургер,Грандер Барбекю та багато інших.</td>
+            <td>від 38 до 189 грн</td>
+        </tr>
+        <tr style="border:1px solid firebrick;font-size:20px">
+            <td>Напої</td>
+            <td>Ірландська кава, Лате, Капучино, Американо,Чай.</td>
+            <td>від 37 до 85 грн</td>
+        </tr>
+        <tr style="border:1px solid firebrick;font-size:20px">
+            <td>Десерти</td>
+            <td>Донати, пиріжки, сінабон, морозиво.</td>
+            <td>від 37 до 85 грн</td>
+        </tr>
+    </table>   
+    </main>
+    <footer style="color:orange">
+        <!-- Підвал з додатковою інформацією та підписом автора -->
+      Найкращі бургери та смачна, гаряча курка!
+      <p>Віктор Міщенко</p>
+    </footer>
+</body>
+
+</html>
